@@ -3,9 +3,6 @@
 git config --global user.name "arseniychanel-arch"
 git config --global user.email "arseniy.chanel@gmail.com"rr
 
-<<<<<<< HEAD
-HTML = Hyper Text Markable Language - Гіпертекстова мова разметка
-=======
 commit - певне збереження, необхідно ввести повідомлення(назву)
 push - передати commit або коміти до віддаленого сховища. В данному разі гітхаб
 pull - витягнути комміт с віддаленого сховища до локального проекта 
@@ -18,4 +15,3 @@ publish - створення віддаленого репозіторія з л
 HTML = Hyper Text Markable Language - Гіпертекстова мова разметка
 Гіпертекст - текст із включенням фрагментів, яки сприяються в якості керуючих елементів
 (програмного коду)
->>>>>>> 8f5eb9a7ef33f358847c4e9f8c7a3db7022da1c1
