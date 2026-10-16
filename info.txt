@@ -2,3 +2,7 @@
 
 git config --global user.name "arseniychanel-arch"
 git config --global user.email "arseniy.chanel@gmail.com"rr
+
+HTML = Hyper Text Markable Language - Гіпертекстова мова разметка
+Гіпертекст - текст із включенням фрагментів, яки сприяються в якості керуючих елементів
+(програмного коду)
