@@ -1,0 +1,4 @@
+вступ до HTML
+
+git config --global user.name "arseniychanel-arch"
+git config --global user.email "arseniy.chanel@gmail.com"
