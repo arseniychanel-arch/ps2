@@ -23,7 +23,7 @@ h1 {
 
 .selector-table {
     border: 2px solid lightgray;
-    border-collapse: collapse;
+    
 }
 
 
@@ -32,3 +32,37 @@ h1 {
     padding: 10px;
     
 }
+
+.ryadok1 {
+    background-image: url(r1.jpg);
+    
+}
+
+.ryadok2 {
+    background-image: url(r3.jpg);
+
+}
+
+.ryadok2 td {
+    border-color: black;
+    color: black ;
+}
+
+.ryadok3 {
+    background-image: url(r4.png);
+}
+
+.ryadok5 {
+    background-image: url(r6.jpg);
+    
+    
+}
+
+.ryadok5 td{
+    -webkit-text-stroke-color: black !important;
+    -webkit-text-stroke: 0.5px;
+    
+    
+    
+}
+
