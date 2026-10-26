@@ -1,0 +1,27 @@
+.product-table {
+    border: 2px solid black;
+
+}
+
+.product-table th, .product-table td {
+    border: 1px solid black;
+    padding: 5px 7px; /*перший верт другий гориз*/
+}
+
+.product-table td:first-child { /*- перший у блоці (тут у рядку)*/
+    text-align: center;
+}
+
+.product-table td:nth-child(3) { /*nth-child (якись по номеру по типу 2-th 3-th) (3) - кожен третій*/
+    text-align: right;
+}
+
+.product-table tbody tr:nth-child(odd) {
+    background-color: aliceblue;
+
+}
+
+.product-table tbody tr:nth-child(even) {
+    background-color: rgb(255, 236, 247);
+
+}
