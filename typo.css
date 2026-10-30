@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: 'bear';
+    src: url(VoimafontFull.ttf);
+      font-weight: 400; /* Обычный вес */
+    font-style: normal; /* Обычный стиль */
+    font-display: swap; /* Плавная замена текста при загрузке */
+}
+
+
+body h1 {
+    font-family: 'bear';
+    font-size: 75px;
+    text-align: center;
+    margin: 10px !important;
+}
+
+body {
+    background-image: url(VOIMA_2026-10-03_1.png);
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+    font-family: "Unbounded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: white;
+
+}
+
+
+
+div  {
+    background-color: rgba(0, 0, 0, 0.541) ;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 25px;
+
+}
+
+.headdiv {
+    background-color: rgba(0, 0, 0, 0.466) ;
+
+}
+
+button {
+    /*базовий стиль - для всіх станів*/
+    background-color: burlywood;
+}
+button:hover {
+    /*базовий стиль - для всіх станів*/
+    background-color: rgb(235, 223, 207);
+    font-size: large;
+    
+    
+}
+
+#agree {
+    /*з символу # починаються стилі для атрибта id (id="agree")*/
+    transform: scale(1.5);
+    margin-right: 10px;
+}
+
+#agree ~ label { /*хвилька це наступний елемент за данним*/
+    color: rgb(0, 216, 245);
+}
+
+#agree:hover {
+    scale: calc(2);
+    margin-left: 30px;
+    margin-right: 30px;
+    border-color: black;
+    border: 3px;
+}
+
